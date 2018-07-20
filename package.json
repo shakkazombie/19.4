@@ -1,0 +1,43 @@
+{
+  "name": "19.4",
+  "version": "1.0.0",
+  "description": "Redux - reducer",
+  "main": "actions.boundle.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "html-webpack-plugin": "^3.2.0",
+    "node": "^10.6.0",
+    "optimize-js-plugin": "0.0.4",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-hot-loader": "^4.3.3",
+    "react-tooltip": "^3.6.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^2.11.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "redux": "^4.0.0",
+    "uglifyjs-webpack-plugin": "^1.2.7",
+    "uuid": "^3.3.2",
+    "webpack": "^3.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakkazombie/19.4.git"
+  },
+  "author": "shakkazombie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakkazombie/19.4/issues"
+  },
+  "homepage": "https://github.com/shakkazombie/19.4#readme"
+}
